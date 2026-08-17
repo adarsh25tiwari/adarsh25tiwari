@@ -2,10 +2,10 @@
 
 Java Full Stack Developer focused on building web applications using Spring Boot, Hibernate, MySQL, React, and Redux.
 
-- 🔹 Building backend applications with Java, Spring Boot, Hibernate & MySQL
-- 🔹 Creating responsive frontend interfaces with React, Redux & Tailwind CSS
-- 🔹 Interested in Microservices, REST APIs & CI/CD
-- 🔹Building projects with Java, Spring Boot, React & MySQL
+-  Building backend applications with Java, Spring Boot, Hibernate & MySQL
+-  Creating responsive frontend interfaces with React, Redux & Tailwind CSS
+-  Interested in Microservices, REST APIs & CI/CD
+-  Building projects with Java, Spring Boot, React & MySQL
 
 ## 🌐 Socials
 
@@ -46,12 +46,12 @@ Java Full Stack Developer focused on building web applications using Spring Boot
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=adarsh25tiwari&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### 🚀 Coding Mindset
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+> Consistency beats intensity. Small improvements every day compound into expertise.
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=adarsh25tiwari&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
