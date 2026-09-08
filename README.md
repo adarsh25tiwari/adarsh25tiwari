@@ -1,11 +1,6 @@
 # 💫 About Me
 
-Java Full Stack Developer focused on building web applications using Spring Boot, Hibernate, MySQL, React, and Redux.
-
--  Building backend applications with Java, Spring Boot, Hibernate & MySQL
--  Creating responsive frontend interfaces with React, Redux & Tailwind CSS
--  Interested in Microservices, REST APIs & CI/CD
--  Building projects with Java, Spring Boot, React & MySQL
+Java developer skilled in backend development using Java, Spring Boot, Spring Security, Hibernate, REST APIs, and microservices. Experienced in implementing JWT authentication, role-based access control, MySQL, and Eureka Service Discovery through production-style projects. Proficient in Git/GitHub, Gradle, Docker and React with strong foundation in object-oriented design principles.
 
 ## 🌐 Socials
 
