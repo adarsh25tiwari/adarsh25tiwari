@@ -3,7 +3,7 @@
 Java developer skilled in backend development using Java, Spring Boot, Spring Security, Hibernate, REST APIs, and microservices. Experienced in implementing JWT authentication, role-based access control, MySQL, and Eureka Service Discovery through production-style projects. Proficient in Git/GitHub, Gradle, Docker and React with strong foundation in object-oriented design principles.
 
 ## 🌐 Socials
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?logo=googlechrome&logoColor=white)](https://portfolio-adarsh-tiwari.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tiwariadarsh493@gmail.com)
 
 # 💻 Tech Stack
